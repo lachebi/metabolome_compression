@@ -1,0 +1,12 @@
+scikit-learn>=1.4,<1.10
+numpy
+pandas
+scipy
+umap-learn
+matplotlib
+joblib
+tabulate
+pytest
+
+# optional, for the VAE (notebooks skip it gracefully if not installed):
+# torch
